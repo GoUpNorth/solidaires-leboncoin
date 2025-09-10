@@ -12,7 +12,7 @@ Introduction
 
 En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux _utilisateurices_ l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
 
-- **Propriétaire** : La section syndicale _<NOM_DE_SECTION>_ (`<PROPRIETAIRE>`)
+- **Propriétaire** : La section syndicale Solidaires leboncoin
 - **Responsable publication** : Le responsable de la section syndicale _<NOM_DE_SECTION>_
 - **Hébergeur** : `<HEBERGEUR>`
 - **Crédits** :
@@ -33,7 +33,7 @@ _Le site_ est mis à jour régulièrement. De la même façon, les mentions lég
 Description des services fournis
 ================================
 
-`<PROPRIETAIRE>` s'efforce de fournir sur _le site_ des informations aussi précises que possible. Toutefois, il ne pourra être tenue responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu'elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
+Solidaires leboncoin s'efforce de fournir sur _le site_ des informations aussi précises que possible. Toutefois, il ne pourra être tenue responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu'elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
 
 Tous les informations indiquées sur _le site_ sont données à titre indicatif, et sont susceptibles d'évoluer. Par ailleurs, les renseignements figurant sur _le site_ ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
 
@@ -47,7 +47,7 @@ Le site ne pourra être tenu responsable de dommages matériels liés à l'utili
 Propriété intellectuelle et contrefaçons
 ========================================
 
-`<PROPRIETAIRE>` est propriétaire des droits de propriété intellectuelle ou détient les droits d'usage sur tous les éléments accessibles sur _le site_, notamment les textes, images, graphismes, logo, icônes, sons, logiciels (sauf mention contraire).
+Solidaires leboncoin est propriétaire des droits de propriété intellectuelle ou détient les droits d'usage sur tous les éléments accessibles sur _le site_, notamment les textes, images, graphismes, logo, icônes, sons, logiciels (sauf mention contraire).
 
 Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments _du site_, quel que soit le moyen ou le procédé utilisé, est soumise au respect de la licence [GNU AFFERO GENERAL PUBLIC LICENSE](https://framagit.org/hugolidaires/site-template/-/raw/stable/LICENSE.md).
 
@@ -57,9 +57,9 @@ Toute exploitation non autorisée _du site_ ou de l'un quelconque des éléments
 Limitations de responsabilité
 =============================
 
-`<PROPRIETAIRE>` ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l'utilisateurice, lors de l'accès _au site_, et résultant soit de l'utilisation d'un matériel ne répondant pas aux spécifications indiquées au point _Limitations contractuelles sur les données techniques_, soit de l'apparition d'un bug ou d'une incompatibilité.
+Solidaires leboncoin ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l'utilisateurice, lors de l'accès _au site_, et résultant soit de l'utilisation d'un matériel ne répondant pas aux spécifications indiquées au point _Limitations contractuelles sur les données techniques_, soit de l'apparition d'un bug ou d'une incompatibilité.
 
-`<PROPRIETAIRE>` ne pourra également être tenue responsable des dommages indirects consécutifs à l'utilisation _du site_.
+Solidaires leboncoin ne pourra également être tenue responsable des dommages indirects consécutifs à l'utilisation _du site_.
 
 Aucun espaces interactif n'est proposé aux utilisateurices.
 
@@ -69,17 +69,17 @@ Gestion des données personnelles
 
 En France, les données personnelles sont notamment protégées par la loi n° 78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004, l'article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995.
 
-`<PROPRIETAIRE>` ne collecte **aucune information personnelle** relatives à _l'utilisateurice du le site_ et par conséquent _le site_ n'est pas déclaré à la CNIL.
+Solidaires leboncoin ne collecte **aucune information personnelle** relatives à _l'utilisateurice du le site_ et par conséquent _le site_ n'est pas déclaré à la CNIL.
 
 
 Liens hypertextes et cookies
 ============================
 
-_Le site_ contient un certain nombre de liens hypertextes vers d'autres sites. Cependant, `<PROPRIETAIRE>` n'a pas la possibilité de vérifier le contenu des sites ainsi visités, et n'assumera en conséquence aucune responsabilité de ce fait.
+_Le site_ contient un certain nombre de liens hypertextes vers d'autres sites. Cependant, Solidaires leboncoin n'a pas la possibilité de vérifier le contenu des sites ainsi visités, et n'assumera en conséquence aucune responsabilité de ce fait.
 
 La navigation sur _le site_ **n'installe pas de cookie** sur l'ordinateur de l'utilisateurice. Un cookie est un fichier de petite taille, qui ne permet pas l'identification de l'utilisateurice, mais qui enregistre des informations relatives à la navigation d'un ordinateur sur un site.
 
-Le refus d'installation d'un cookie est une pratique encouragée par `<PROPRIETAIRE>`, le cas échéant, il vous encourage à les supprimer une fois votre navigation terminée sur un site.
+Le refus d'installation d'un cookie est une pratique encouragée par Solidaires leboncoin, le cas échéant, il vous encourage à les supprimer une fois votre navigation terminée sur un site.
 
 
 Droit applicable

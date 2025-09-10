@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 theme = "beautifulhugo"
-title = "Hugolidaires, un modèle de site"
+title = "Solidaires leboncoin"
 
 
 [params]
@@ -27,7 +27,7 @@ selfHosted = true
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
-subtitle = "Modèle de site Solidaires (basé sur Hugo)"
+subtitle = "Section syndicale d'entreprise Solidaires Informatique"
 useHLJS = false
 wordCount = false
 
