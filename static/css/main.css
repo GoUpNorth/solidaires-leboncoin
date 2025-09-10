@@ -175,7 +175,7 @@ body {
   
   .navbar-custom {
     font-family: sans-serif;
-    background: #E50073;
+    background: #EC5A13;
     color: #FFFF54;
   }
 
@@ -200,7 +200,7 @@ body {
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
     font-weight: 800;
-    color: #FFFF54;
+    color: #FFFFFF;
   }
   
   /* @media (prefers-color-scheme: dark) {
