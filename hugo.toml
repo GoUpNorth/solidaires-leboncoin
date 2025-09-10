@@ -1,7 +1,7 @@
 baseURL = "https://hugolidaires.frama.io/site-template/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 languageCode = "fr-fr"
 pygmentsCodefencesGuessSyntax = true
 pygmentsCodeFences = true
